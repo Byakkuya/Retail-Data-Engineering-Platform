@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Retail Data Engineering Platform
 
 ### End-to-end retail analytics with Databricks, PySpark, Delta Lake & Medallion Architecture
@@ -600,8 +600,8 @@ Review the accepted values to ensure they match the source data.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **Built with Databricks · PySpark · Delta Lake**
 
 *From raw retail data to reusable business insights.*
-:::
+
